@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am currently a Ph.D. student at the AI Thrust of the Hong Kong University of Science and Technology (Guangzhou). I am fortunate and horned to be supervised by Professor Hui Xiong. I completed a visiting student program at the Hong Kong University of Science and Technology (CWB) from July 2024 to December 2024, under the guidance of Professor James Kwok.
+I am currently a Ph.D. student at the AI Thrust of the Hong Kong University of Science and Technology (Guangzhou). I am fortunate and horned to be supervised by [Professor Hui Xiong](https://www.hkust-gz.edu.cn/people/hui-xiong/). I completed a visiting student program at the Hong Kong University of Science and Technology (CWB) from July 2024 to December 2024, under the guidance of [Professor James Kwok](https://www.cse.ust.hk/~jamesk/).
 
 I hold a Master's degree from the Department of Automation, Tsinghua University, and a Bachelor's degree from the School of Physics, Huazhong University of Science and Technology.
 
