@@ -17,9 +17,11 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Introduce yourself.
+I am currently a Ph.D. student at the AI Thrust of the Hong Kong University of Science and Technology (Guangzhou). I am fortunate and horned to be supervised by Professor Hui Xiong. I completed a visiting student program at the Hong Kong University of Science and Technology (CWB) from July 2024 to December 2024, under the guidance of Professor James Kwok.
 
-My research interest includes neural machine translation and computer vision. I have published more than 10 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=EVpo9eQAAAAJ&hl=zh-CN'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=EVpo9eQAAAAJ&hl=zh-CN'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).
+I hold a Master's degree from the Department of Automation, Tsinghua University, and a Bachelor's degree from the School of Physics, Huazhong University of Science and Technology.
+
+My research interests include knowledge distillation, domain adaptation, multi-modal learning, large language models, and medical image analysis.
 
 
 # 🔥 News
