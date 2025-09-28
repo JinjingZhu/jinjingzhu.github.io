@@ -25,8 +25,8 @@ My research interests include knowledge distillation, domain adaptation, multi-m
 
 
 # 🔥 News
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2025.09*: &nbsp;🎉🎉 One paper is accepted by NeurIPS 2025.
+- *2025.06*: &nbsp;🎉🎉 One paper is accepted by ICCV 2025.
 
 # 📝 Publications 
 
