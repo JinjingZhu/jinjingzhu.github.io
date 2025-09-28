@@ -27,6 +27,12 @@ My research interests include knowledge distillation, domain adaptation, multi-m
 # 🔥 News
 - *2025.09*: &nbsp;🎉🎉 One paper is accepted by NeurIPS 2025.
 - *2025.06*: &nbsp;🎉🎉 One paper is accepted by ICCV 2025.
+- *2025.05*: &nbsp;🎉🎉 One paper is accepted by TIP.
+- *2025.03*: &nbsp;🎉🎉 One paper is accepted by CVPR 2025.
+- *2024.10*: &nbsp;🎉🎉 One paper is accepted by TIP.
+- *2024.05*: &nbsp;🎉🎉 One paper is accepted by RA-L.
+- *2023.07*: &nbsp;🎉🎉 One paper is accepted by ICCV 2023.
+- *2023.03*: &nbsp;🎉🎉 Two papers is accepted by CVPR 2023 (One paper is Hightlight).
 
 # 📝 Publications 
 
