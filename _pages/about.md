@@ -32,7 +32,7 @@ My research interests include knowledge distillation, domain adaptation, multi-m
 - *2024.10*: &nbsp;🎉🎉 One paper is accepted by TIP.
 - *2024.05*: &nbsp;🎉🎉 One paper is accepted by RA-L.
 - *2023.07*: &nbsp;🎉🎉 One paper is accepted by ICCV 2023.
-- *2023.03*: &nbsp;🎉🎉 Two papers are accepted by CVPR 2023 (One paper is Hightlight).
+- *2023.03*: &nbsp;🎉🎉 Two papers are accepted by CVPR 2023 (One paper is Highlight).
 # 🔍️ Professional Services
 - **Conference Reviewer**: CVPR, ICCV, AAAI, ECCV.
 - **Journal Reviewer**: TIP, TPAMI.
