@@ -34,7 +34,8 @@ My research interests include knowledge distillation, domain adaptation, multi-m
 - *2023.07*: &nbsp;🎉🎉 One paper is accepted by ICCV 2023.
 - *2023.03*: &nbsp;🎉🎉 Two papers are accepted by CVPR 2023 (One paper is Hightlight).
 # 🔍️ Professional Services
-- **Reviewers**: CVPR, ICCV, AAAI, TIP, TPAMI, ECCV, etc.
+- **Conference Reviewer**: CVPR, ICCV, AAAI, ECCV.
+- **Journal Reviewer**: TIP, TPAMI.
 
 # 💬 Invited Talks
 - *2024.12*, "Deep learning for event‑based vision". AnHui University. 
