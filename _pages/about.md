@@ -25,16 +25,17 @@ My research interests include knowledge distillation, domain adaptation, multi-m
 
 
 # 🔥 News
-- *2025.09*: &nbsp;🎉🎉 One paper is accepted by NeurIPS 2025.
-- *2025.06*: &nbsp;🎉🎉 One paper is accepted by ICCV 2025.
-- *2025.05*: &nbsp;🎉🎉 One paper is accepted by TIP.
-- *2025.03*: &nbsp;🎉🎉 One paper is accepted by CVPR 2025.
-- *2024.10*: &nbsp;🎉🎉 One paper is accepted by TIP.
-- *2024.05*: &nbsp;🎉🎉 One paper is accepted by RA-L.
-- *2023.10*: &nbsp;🎉🎉 One paper is accepted by IROS.
-- *2023.07*: &nbsp;🎉🎉 One paper is accepted by ICCV 2023.
-- *2023.03*: &nbsp;🎉🎉 Two papers are accepted by CVPR 2023 (One paper is Highlight).
-- *2022.11*: &nbsp;🎉🎉 One paper is accepted by AAAI 2023.
+- *2025.11*: &nbsp;🎉🎉 One paper was accepted by TAI.
+- *2025.09*: &nbsp;🎉🎉 One paper was accepted by NeurIPS 2025.
+- *2025.06*: &nbsp;🎉🎉 One paper was accepted by ICCV 2025.
+- *2025.05*: &nbsp;🎉🎉 One paper was accepted by TIP.
+- *2025.03*: &nbsp;🎉🎉 One paper was accepted by CVPR 2025.
+- *2024.10*: &nbsp;🎉🎉 One paper was accepted by TIP.
+- *2024.05*: &nbsp;🎉🎉 One paper was accepted by RA-L.
+- *2023.10*: &nbsp;🎉🎉 One paper was accepted by IROS.
+- *2023.07*: &nbsp;🎉🎉 One paper was accepted by ICCV 2023.
+- *2023.03*: &nbsp;🎉🎉 Two papers were accepted by CVPR 2023 (One paper is Highlight).
+- *2022.11*: &nbsp;🎉🎉 One paper was accepted by AAAI 2023.
 # 🔍️ Professional Services
 - **Conference Reviewer**: CVPR, ICCV, AAAI, ECCV, ICLR, NeurIPS
 - **Journal Reviewer**: TIP, TPAMI.
