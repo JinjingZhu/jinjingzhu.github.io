@@ -25,6 +25,7 @@ My research interests include knowledge distillation, domain adaptation, multi-m
 
 
 # 🔥 News
+- *2025.12*: &nbsp;🎉🎉 One paper was accepted by T-PAMI.
 - *2025.11*: &nbsp;🎉🎉 One paper was accepted by TAI.
 - *2025.09*: &nbsp;🎉🎉 One paper was accepted by NeurIPS 2025.
 - *2025.06*: &nbsp;🎉🎉 One paper was accepted by ICCV 2025.
