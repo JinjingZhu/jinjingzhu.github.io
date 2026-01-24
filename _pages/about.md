@@ -35,7 +35,7 @@ My research interests include knowledge distillation, domain adaptation, multi-m
 - *2024.05*: &nbsp;🎉🎉 One paper was accepted by RA-L.
 - *2023.10*: &nbsp;🎉🎉 One paper was accepted by IROS.
 - *2023.07*: &nbsp;🎉🎉 One paper was accepted by ICCV 2023.
-- *2023.03*: &nbsp;🎉🎉 Two papers were accepted by CVPR 2023 (One paper is Highlight).
+- *2023.03*: &nbsp;🎉🎉 Two papers were accepted by CVPR 2023 (One paper was Highlight).
 - *2022.11*: &nbsp;🎉🎉 One paper was accepted by AAAI 2023.
 # 🔍️ Professional Services
 - **Conference Reviewer**: CVPR, ICCV, AAAI, ECCV, ICLR, NeurIPS
