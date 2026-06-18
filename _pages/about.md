@@ -44,7 +44,7 @@ My research interests include knowledge distillation, domain adaptation, multi-m
 - *2022.11*: &nbsp;🎉🎉 One paper was accepted by AAAI 2023.
 # 🔍️ Professional Services
 - **Conference Reviewer**: CVPR, ICCV, AAAI, ECCV, ICLR, NeurIPS
-- **Journal Reviewer**: TIP, TPAMI.
+- **Journal Reviewer**: TIP, IJCV, TPAMI.
 
 # 💬 Invited Talks
 - *2024.12*, "Deep learning for event‑based vision". AnHui University. 
