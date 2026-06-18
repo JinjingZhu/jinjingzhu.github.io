@@ -25,6 +25,7 @@ My research interests include knowledge distillation, domain adaptation, multi-m
 
 
 # 🔥 News
+- *2026.06*: &nbsp;🎉🎉 Three papers were accepted by ECCV 2026.
 - *2026.06*: &nbsp;🎉🎉 One paper was accepted by MICCAI 2026.
 - *2026.05*: &nbsp;🎉🎉 One paper was accepted by KDD 2026 (Oral).
 - *2026.05*: &nbsp;🎉🎉 One paper was accepted by ICML 2026.
