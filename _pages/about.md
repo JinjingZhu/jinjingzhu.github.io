@@ -25,6 +25,7 @@ My research interests include knowledge distillation, domain adaptation, multi-m
 
 
 # 🔥 News
+- *2026.06*: &nbsp;🎉🎉 One paper was accepted by Science Bulletin.
 - *2026.06*: &nbsp;🎉🎉 One paper was accepted by Pattern Recognition.
 - *2026.06*: &nbsp;🎉🎉 One paper was accepted by npj Digital Medicine.
 - *2026.06*: &nbsp;🎉🎉 Three papers were accepted by ECCV 2026.
